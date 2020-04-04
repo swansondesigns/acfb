@@ -1,0 +1,6 @@
+plugins
+uploads
+index.php
+
+themes/twenty*
+#!themes/twentytwenty
